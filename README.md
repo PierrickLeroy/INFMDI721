@@ -1,2 +1,2 @@
 # INFMDI721
-repo pour le cours INFMDI721 Kit Big Data
+repo de Pierrick LEROY pour le cours INFMDI721 Kit Big Data
